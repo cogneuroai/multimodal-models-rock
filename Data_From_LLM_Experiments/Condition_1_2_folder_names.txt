@@ -1,0 +1,8 @@
+haiku_data_anchor_images
+haiku_data_no_anchor_images
+opus_data_anchor_images
+opus_data_no_anchor_images
+sonnet_data_anchor_images
+sonnet_data_no_anchor_images
+gpt4_data_no_anchor_images
+gpt4_data_no_anchor_images

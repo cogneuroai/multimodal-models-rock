@@ -1,0 +1,361 @@
+porphyritic texture,conchoidal fracture,pegmatitic structure,Image
+7.05,2.07,2.55,I_Andesite_01.jpg
+7.05,2.27,3.1,I_Andesite_02.jpg
+7.0,2.33,2.0,I_Andesite_03.jpg
+8.14,1.27,2.3,I_Andesite_04.jpg
+8.1,1.33,2.85,I_Andesite_05.jpg
+7.33,2.07,3.05,I_Andesite_06.jpg
+8.52,1.07,3.2,I_Andesite_07.jpg
+3.81,2.2,1.55,I_Andesite_08.jpg
+6.95,2.13,2.3,I_Andesite_09.jpg
+6.67,1.53,2.5,I_Andesite_10.jpg
+7.33,1.8,2.65,I_Andesite_11.jpg
+6.95,1.47,3.0,I_Andesite_12.jpg
+2.1,4.73,1.05,I_Basalt_01.jpg
+3.05,3.73,1.35,I_Basalt_02.jpg
+6.05,2.33,2.45,I_Basalt_03.jpg
+2.0,4.07,1.25,I_Basalt_04.jpg
+1.33,3.2,1.15,I_Basalt_05.jpg
+1.48,3.07,1.55,I_Basalt_06.jpg
+2.52,1.27,2.1,I_Basalt_07.jpg
+1.67,3.2,1.25,I_Basalt_08.jpg
+1.86,2.13,1.2,I_Basalt_09.jpg
+1.62,4.4,1.8,I_Basalt_10.jpg
+2.48,1.6,1.7,I_Basalt_11.jpg
+3.57,2.0,2.15,I_Basalt_12.jpg
+5.1,1.53,2.55,I_Diorite_01.jpg
+5.76,2.07,4.65,I_Diorite_02.jpg
+5.24,1.6,3.1,I_Diorite_03.jpg
+5.76,2.67,3.05,I_Diorite_04.jpg
+5.14,1.93,2.9,I_Diorite_05.jpg
+5.48,1.6,3.9,I_Diorite_06.jpg
+6.67,1.73,4.1,I_Diorite_07.jpg
+6.38,1.87,5.1,I_Diorite_08.jpg
+6.57,1.73,3.3,I_Diorite_09.jpg
+5.52,1.47,2.85,I_Diorite_10.jpg
+5.52,1.2,3.1,I_Diorite_11.jpg
+5.48,1.47,3.05,I_Diorite_12.jpg
+4.62,1.53,3.15,I_Gabbro_01.jpg
+2.14,2.93,2.05,I_Gabbro_02.jpg
+5.43,1.4,3.2,I_Gabbro_03.jpg
+5.19,1.87,4.5,I_Gabbro_04.jpg
+4.95,1.4,3.15,I_Gabbro_05.jpg
+4.05,2.4,3.1,I_Gabbro_06.jpg
+7.9,1.47,3.65,I_Gabbro_07.jpg
+3.48,1.87,2.7,I_Gabbro_08.jpg
+3.14,2.53,3.4,I_Gabbro_09.jpg
+3.62,2.27,2.3,I_Gabbro_10.jpg
+3.57,1.93,1.55,I_Gabbro_11.jpg
+4.43,2.0,2.4,I_Gabbro_12.jpg
+6.9,1.4,5.3,I_Granite_01.jpg
+5.67,1.6,3.3,I_Granite_02.jpg
+5.9,2.27,3.75,I_Granite_03.jpg
+5.95,1.87,3.5,I_Granite_04.jpg
+5.81,1.67,3.3,I_Granite_05.jpg
+5.52,1.73,3.7,I_Granite_06.jpg
+5.9,1.73,3.9,I_Granite_07.jpg
+5.9,1.67,3.9,I_Granite_08.jpg
+6.52,2.33,5.3,I_Granite_09.jpg
+5.81,1.73,4.4,I_Granite_10.jpg
+6.24,1.73,4.15,I_Granite_11.jpg
+6.14,2.27,3.65,I_Granite_12.jpg
+1.9,7.6,3.05,I_Obsidian_01.jpg
+1.24,8.33,3.95,I_Obsidian_02.jpg
+1.43,7.2,3.5,I_Obsidian_03.jpg
+1.05,8.33,4.15,I_Obsidian_04.jpg
+5.71,8.2,5.4,I_Obsidian_05.jpg
+2.24,8.73,5.1,I_Obsidian_06.jpg
+2.38,7.47,4.85,I_Obsidian_07.jpg
+1.38,9.0,4.8,I_Obsidian_08.jpg
+1.0,8.87,3.85,I_Obsidian_09.jpg
+1.24,8.2,3.9,I_Obsidian_10.jpg
+1.05,8.27,3.05,I_Obsidian_11.jpg
+1.05,8.87,3.9,I_Obsidian_12.jpg
+5.62,1.73,5.25,I_Pegmatite_01.jpg
+5.19,2.53,5.6,I_Pegmatite_02.jpg
+6.57,2.67,5.75,I_Pegmatite_03.jpg
+5.62,2.67,5.85,I_Pegmatite_04.jpg
+5.86,2.67,5.55,I_Pegmatite_05.jpg
+4.33,2.6,4.45,I_Pegmatite_06.jpg
+6.1,1.8,8.2,I_Pegmatite_07.jpg
+4.62,4.4,8.25,I_Pegmatite_08.jpg
+5.0,3.87,6.4,I_Pegmatite_09.jpg
+3.9,3.33,6.0,I_Pegmatite_10.jpg
+5.1,3.33,8.75,I_Pegmatite_11.jpg
+6.1,3.27,5.4,I_Pegmatite_12.jpg
+3.57,2.0,2.1,I_Peridotite_01.jpg
+5.43,1.87,3.9,I_Peridotite_02.jpg
+7.67,1.93,4.75,I_Peridotite_03.jpg
+7.14,2.2,4.35,I_Peridotite_04.jpg
+3.76,2.4,3.75,I_Peridotite_05.jpg
+5.71,2.93,5.95,I_Peridotite_06.jpg
+5.67,1.73,3.05,I_Peridotite_07.jpg
+5.95,1.67,3.55,I_Peridotite_08.jpg
+6.48,1.6,3.55,I_Peridotite_09.jpg
+5.71,1.87,4.5,I_Peridotite_10.jpg
+6.19,1.33,2.4,I_Peridotite_11.jpg
+6.95,1.47,4.35,I_Peridotite_12.jpg
+2.95,1.47,1.35,I_Pumice_01.jpg
+2.81,1.2,1.8,I_Pumice_02.jpg
+2.57,1.6,1.3,I_Pumice_03.jpg
+2.76,1.33,1.2,I_Pumice_04.jpg
+2.33,1.4,1.2,I_Pumice_05.jpg
+2.67,1.6,1.45,I_Pumice_06.jpg
+3.48,1.6,1.7,I_Pumice_07.jpg
+2.71,1.4,1.2,I_Pumice_08.jpg
+2.33,1.6,1.2,I_Pumice_09.jpg
+4.1,1.47,1.85,I_Pumice_10.jpg
+3.24,2.0,1.2,I_Pumice_11.jpg
+3.95,1.8,1.4,I_Pumice_12.jpg
+7.05,1.4,2.9,I_Rhyolite_01.jpg
+7.71,1.4,2.95,I_Rhyolite_02.jpg
+4.62,3.13,3.35,I_Rhyolite_03.jpg
+3.62,4.47,1.7,I_Rhyolite_04.jpg
+3.57,2.93,1.7,I_Rhyolite_05.jpg
+6.1,3.8,2.95,I_Rhyolite_06.jpg
+2.05,3.73,1.7,I_Rhyolite_07.jpg
+2.14,2.8,1.1,I_Rhyolite_08.jpg
+7.57,1.93,2.65,I_Rhyolite_09.jpg
+7.14,2.07,2.7,I_Rhyolite_10.jpg
+1.57,2.8,1.05,I_Rhyolite_11.jpg
+7.9,1.47,2.8,I_Rhyolite_12.jpg
+5.86,2.67,4.9,M_Amphibolite_01.jpg
+2.33,2.53,1.85,M_Amphibolite_02.jpg
+4.24,5.2,4.45,M_Amphibolite_03.jpg
+3.57,2.4,2.8,M_Amphibolite_04.jpg
+5.48,1.33,3.0,M_Amphibolite_05.jpg
+4.05,2.2,2.35,M_Amphibolite_06.jpg
+5.24,2.33,3.9,M_Amphibolite_07.jpg
+3.95,4.0,4.55,M_Amphibolite_08.jpg
+5.19,2.6,3.65,M_Amphibolite_09.jpg
+4.9,2.87,3.3,M_Amphibolite_10.jpg
+7.14,1.6,4.25,M_Amphibolite_11.jpg
+6.14,2.27,5.55,M_Amphibolite_12.jpg
+1.19,6.07,3.1,M_Anthracite_01.jpg
+1.38,5.6,3.75,M_Anthracite_02.jpg
+2.24,3.87,5.0,M_Anthracite_03.jpg
+1.95,7.13,4.95,M_Anthracite_04.jpg
+1.14,5.67,3.4,M_Anthracite_05.jpg
+2.1,3.67,2.7,M_Anthracite_06.jpg
+1.38,6.27,3.8,M_Anthracite_07.jpg
+1.05,5.87,3.85,M_Anthracite_08.jpg
+1.33,7.47,3.25,M_Anthracite_09.jpg
+2.57,4.27,3.85,M_Anthracite_10.jpg
+1.76,4.47,3.75,M_Anthracite_11.jpg
+2.14,6.33,4.85,M_Anthracite_12.jpg
+4.1,3.2,2.1,M_Gneiss_01.jpg
+4.33,2.73,3.35,M_Gneiss_02.jpg
+3.86,2.47,2.4,M_Gneiss_03.jpg
+3.71,2.47,3.1,M_Gneiss_04.jpg
+4.95,2.33,2.45,M_Gneiss_05.jpg
+3.1,2.47,1.75,M_Gneiss_06.jpg
+3.0,2.8,2.6,M_Gneiss_07.jpg
+3.43,2.6,3.7,M_Gneiss_08.jpg
+3.81,2.67,2.4,M_Gneiss_09.jpg
+4.52,1.87,2.85,M_Gneiss_10.jpg
+3.19,1.93,2.25,M_Gneiss_11.jpg
+4.0,3.27,3.0,M_Gneiss_12.jpg
+1.67,4.4,2.15,M_Hornfels_01.jpg
+2.33,2.33,1.25,M_Hornfels_02.jpg
+1.05,3.53,1.9,M_Hornfels_03.jpg
+2.52,2.73,1.35,M_Hornfels_04.jpg
+1.33,4.2,1.9,M_Hornfels_05.jpg
+2.48,4.4,1.7,M_Hornfels_06.jpg
+2.29,4.0,2.15,M_Hornfels_07.jpg
+3.62,3.0,1.85,M_Hornfels_08.jpg
+2.95,2.33,1.75,M_Hornfels_09.jpg
+2.38,2.53,1.15,M_Hornfels_10.jpg
+4.62,2.07,2.0,M_Hornfels_11.jpg
+1.71,4.2,2.0,M_Hornfels_12.jpg
+3.86,2.07,3.7,M_Marble_01.jpg
+1.29,3.47,2.35,M_Marble_02.jpg
+1.57,2.07,1.1,M_Marble_03.jpg
+3.29,2.6,2.8,M_Marble_04.jpg
+2.38,2.4,3.45,M_Marble_05.jpg
+2.57,3.13,2.8,M_Marble_06.jpg
+5.05,2.4,2.3,M_Marble_07.jpg
+2.86,2.33,3.35,M_Marble_08.jpg
+3.14,2.6,3.6,M_Marble_09.jpg
+3.33,2.53,3.7,M_Marble_10.jpg
+4.81,2.87,3.75,M_Marble_11.jpg
+3.29,2.8,4.35,M_Marble_12.jpg
+3.24,3.27,2.2,M_Migmatite_01.jpg
+3.71,1.73,1.75,M_Migmatite_02.jpg
+2.81,3.6,1.75,M_Migmatite_03.jpg
+2.71,3.0,2.35,M_Migmatite_04.jpg
+2.86,3.27,2.0,M_Migmatite_05.jpg
+3.48,3.07,3.4,M_Migmatite_06.jpg
+3.95,3.93,3.5,M_Migmatite_07.jpg
+4.19,2.53,2.6,M_Migmatite_08.jpg
+5.33,2.27,3.35,M_Migmatite_09.jpg
+4.62,1.93,2.15,M_Migmatite_10.jpg
+3.05,2.6,2.9,M_Migmatite_11.jpg
+2.67,3.6,1.7,M_Migmatite_12.jpg
+6.86,3.13,4.35,M_Phyllite_01.jpg
+2.38,3.47,1.75,M_Phyllite_02.jpg
+2.24,4.07,2.05,M_Phyllite_03.jpg
+4.43,3.4,2.5,M_Phyllite_04.jpg
+1.57,3.07,1.25,M_Phyllite_05.jpg
+1.48,4.6,1.8,M_Phyllite_06.jpg
+2.71,2.6,1.65,M_Phyllite_07.jpg
+2.14,4.87,2.75,M_Phyllite_08.jpg
+2.24,4.4,2.1,M_Phyllite_09.jpg
+2.71,3.53,1.45,M_Phyllite_10.jpg
+3.86,2.4,2.8,M_Phyllite_11.jpg
+2.1,3.47,2.6,M_Phyllite_12.jpg
+4.05,2.47,2.1,M_Quartzite_01.jpg
+1.9,3.2,1.65,M_Quartzite_02.jpg
+5.29,1.6,2.55,M_Quartzite_03.jpg
+3.95,2.13,2.55,M_Quartzite_04.jpg
+2.62,2.4,2.0,M_Quartzite_05.jpg
+3.43,3.0,2.65,M_Quartzite_06.jpg
+1.52,3.6,1.55,M_Quartzite_07.jpg
+2.76,2.13,1.85,M_Quartzite_08.jpg
+4.76,2.4,2.35,M_Quartzite_09.jpg
+3.62,2.53,3.0,M_Quartzite_10.jpg
+3.86,2.6,1.5,M_Quartzite_11.jpg
+2.29,1.93,1.3,M_Quartzite_12.jpg
+2.57,2.33,1.7,M_Schist_01.jpg
+3.95,2.33,3.2,M_Schist_02.jpg
+4.76,2.13,4.1,M_Schist_03.jpg
+4.71,2.6,3.45,M_Schist_04.jpg
+2.33,4.0,3.05,M_Schist_05.jpg
+5.95,2.93,3.95,M_Schist_06.jpg
+4.24,2.53,3.4,M_Schist_07.jpg
+5.9,2.53,5.3,M_Schist_08.jpg
+5.52,2.4,3.4,M_Schist_09.jpg
+4.19,1.93,3.2,M_Schist_10.jpg
+6.86,1.93,5.15,M_Schist_11.jpg
+5.9,1.87,4.3,M_Schist_12.jpg
+2.29,3.13,1.65,M_Slate_01.jpg
+1.43,4.73,1.8,M_Slate_02.jpg
+1.62,3.4,1.05,M_Slate_03.jpg
+1.43,3.13,1.05,M_Slate_04.jpg
+1.67,3.2,1.2,M_Slate_05.jpg
+1.62,3.53,1.4,M_Slate_06.jpg
+1.43,2.93,1.15,M_Slate_07.jpg
+1.48,4.2,1.1,M_Slate_08.jpg
+1.9,3.4,2.35,M_Slate_09.jpg
+1.62,3.67,1.35,M_Slate_10.jpg
+1.62,5.73,1.25,M_Slate_11.jpg
+1.38,3.33,1.35,M_Slate_12.jpg
+2.57,4.07,2.7,S_Bituminous Coal_01.jpg
+1.71,6.87,4.05,S_Bituminous Coal_02.jpg
+1.9,3.73,2.6,S_Bituminous Coal_03.jpg
+2.52,4.47,3.3,S_Bituminous Coal_04.jpg
+2.48,3.4,2.35,S_Bituminous Coal_05.jpg
+1.9,3.67,2.0,S_Bituminous Coal_06.jpg
+1.9,4.13,2.05,S_Bituminous Coal_07.jpg
+1.71,4.6,2.75,S_Bituminous Coal_08.jpg
+1.0,8.33,2.8,S_Bituminous Coal_09.jpg
+1.52,4.47,2.9,S_Bituminous Coal_10.jpg
+1.05,5.27,2.95,S_Bituminous Coal_11.jpg
+2.86,3.47,2.4,S_Bituminous Coal_12.jpg
+5.9,3.13,4.7,S_Breccia_01.jpg
+7.81,2.07,5.4,S_Breccia_02.jpg
+7.33,2.4,3.75,S_Breccia_03.jpg
+6.19,2.73,3.15,S_Breccia_04.jpg
+7.14,1.93,6.6,S_Breccia_05.jpg
+6.19,2.0,4.55,S_Breccia_06.jpg
+8.33,1.27,5.0,S_Breccia_07.jpg
+7.81,2.53,6.55,S_Breccia_08.jpg
+4.67,4.2,4.95,S_Breccia_09.jpg
+7.95,1.6,4.4,S_Breccia_10.jpg
+8.24,1.8,5.45,S_Breccia_11.jpg
+7.9,1.4,4.6,S_Breccia_12.jpg
+2.62,6.07,3.5,S_Chert_01.jpg
+1.48,4.47,1.7,S_Chert_02.jpg
+1.95,6.4,2.65,S_Chert_03.jpg
+1.81,3.73,1.4,S_Chert_04.jpg
+2.05,5.6,1.5,S_Chert_05.jpg
+2.43,5.27,1.9,S_Chert_06.jpg
+1.71,3.4,1.35,S_Chert_07.jpg
+2.14,7.67,4.0,S_Chert_08.jpg
+2.0,6.07,3.45,S_Chert_09.jpg
+2.33,8.13,2.75,S_Chert_10.jpg
+3.33,7.73,5.85,S_Chert_11.jpg
+2.05,5.53,1.85,S_Chert_12.jpg
+6.62,1.6,4.2,S_Conglomerate_01.jpg
+8.29,1.87,4.55,S_Conglomerate_02.jpg
+8.0,1.93,4.0,S_Conglomerate_03.jpg
+7.48,1.33,6.05,S_Conglomerate_04.jpg
+8.0,1.93,6.7,S_Conglomerate_05.jpg
+5.81,1.93,2.7,S_Conglomerate_06.jpg
+7.43,1.2,2.6,S_Conglomerate_07.jpg
+7.67,1.6,3.95,S_Conglomerate_08.jpg
+7.86,1.8,3.35,S_Conglomerate_09.jpg
+7.76,2.53,3.2,S_Conglomerate_10.jpg
+8.33,1.8,4.1,S_Conglomerate_11.jpg
+2.43,2.6,1.95,S_Conglomerate_12.jpg
+2.1,2.53,1.1,S_Dolomite_01.jpg
+3.71,2.87,3.35,S_Dolomite_02.jpg
+3.1,4.33,2.35,S_Dolomite_03.jpg
+2.52,2.67,1.35,S_Dolomite_04.jpg
+2.19,4.73,1.55,S_Dolomite_05.jpg
+1.62,3.27,2.65,S_Dolomite_06.jpg
+1.57,2.93,1.15,S_Dolomite_07.jpg
+2.33,2.0,1.25,S_Dolomite_08.jpg
+3.29,2.47,1.6,S_Dolomite_09.jpg
+2.38,2.67,1.4,S_Dolomite_10.jpg
+4.71,1.67,2.35,S_Dolomite_11.jpg
+1.33,2.4,1.25,S_Dolomite_12.jpg
+2.57,2.67,1.95,S_Micrite_01.jpg
+1.81,2.0,1.3,S_Micrite_02.jpg
+2.19,3.13,1.8,S_Micrite_03.jpg
+1.48,5.93,2.0,S_Micrite_04.jpg
+2.48,5.13,2.15,S_Micrite_05.jpg
+3.29,2.67,1.35,S_Micrite_06.jpg
+4.38,1.6,1.35,S_Micrite_07.jpg
+2.0,4.33,2.15,S_Micrite_08.jpg
+2.24,4.33,1.75,S_Micrite_09.jpg
+1.19,3.0,1.0,S_Micrite_10.jpg
+2.52,2.4,1.3,S_Micrite_11.jpg
+2.81,3.07,2.1,S_Micrite_12.jpg
+2.57,3.07,2.9,S_Rock Gypsum_01.jpg
+2.86,4.47,3.1,S_Rock Gypsum_02.jpg
+2.19,2.73,2.95,S_Rock Gypsum_03.jpg
+3.14,3.33,4.25,S_Rock Gypsum_04.jpg
+2.24,2.27,3.5,S_Rock Gypsum_05.jpg
+2.0,4.07,2.05,S_Rock Gypsum_06.jpg
+2.19,3.07,2.2,S_Rock Gypsum_07.jpg
+1.95,5.87,4.0,S_Rock Gypsum_08.jpg
+1.81,5.0,5.0,S_Rock Gypsum_09.jpg
+2.14,3.67,3.25,S_Rock Gypsum_10.jpg
+1.86,4.13,3.2,S_Rock Gypsum_11.jpg
+2.62,4.4,4.2,S_Rock Gypsum_12.jpg
+2.1,4.27,4.8,S_Rock Salt_01.jpg
+4.24,2.67,5.3,S_Rock Salt_02.jpg
+4.48,2.07,5.0,S_Rock Salt_03.jpg
+3.81,3.47,7.4,S_Rock Salt_04.jpg
+2.57,2.87,3.55,S_Rock Salt_05.jpg
+3.43,3.13,5.75,S_Rock Salt_06.jpg
+2.95,2.2,4.95,S_Rock Salt_07.jpg
+1.76,3.67,5.05,S_Rock Salt_08.jpg
+2.19,3.6,6.4,S_Rock Salt_09.jpg
+3.1,3.07,3.5,S_Rock Salt_10.jpg
+2.86,3.6,3.15,S_Rock Salt_11.jpg
+2.1,3.6,5.05,S_Rock Salt_12.jpg
+3.05,2.8,1.95,S_Sandstone_01.jpg
+1.9,2.8,1.25,S_Sandstone_02.jpg
+1.71,2.47,1.1,S_Sandstone_03.jpg
+1.57,2.27,1.0,S_Sandstone_04.jpg
+1.57,3.2,1.5,S_Sandstone_05.jpg
+2.48,3.13,2.2,S_Sandstone_06.jpg
+2.57,2.33,1.55,S_Sandstone_07.jpg
+1.62,2.53,1.15,S_Sandstone_08.jpg
+2.1,2.8,1.75,S_Sandstone_09.jpg
+3.29,1.93,1.55,S_Sandstone_10.jpg
+1.81,2.27,1.45,S_Sandstone_11.jpg
+1.43,2.27,1.65,S_Sandstone_12.jpg
+1.67,5.07,1.25,S_Shale_01.jpg
+2.14,3.6,1.9,S_Shale_02.jpg
+1.71,2.13,1.15,S_Shale_03.jpg
+1.33,4.6,1.1,S_Shale_04.jpg
+1.71,5.2,1.45,S_Shale_05.jpg
+3.24,3.53,2.55,S_Shale_06.jpg
+1.67,3.93,1.8,S_Shale_07.jpg
+1.43,4.4,1.25,S_Shale_08.jpg
+3.05,3.4,2.35,S_Shale_09.jpg
+1.62,3.2,1.45,S_Shale_10.jpg
+2.29,3.87,1.9,S_Shale_11.jpg
+2.14,3.6,1.2,S_Shale_12.jpg
