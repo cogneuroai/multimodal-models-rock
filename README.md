@@ -16,7 +16,7 @@ insert bibtex / citation here
 
 Interactive plots of individual feature data are available at [cognlp.com](https://cognlp.com)
 
-install requirements
+Install requirements - 
 ```shell
 pip install -r requirements.txt
 ```
