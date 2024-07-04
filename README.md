@@ -6,15 +6,6 @@ in the paper:
 **Comparing Perceptual Judgements in Large Multimodal Models and
 Humans**
 
-<!---
-[__Comparing Perceptual Judgements in Large Multimodal Models and Humans__](insert psyarxiv link here)
-
-To cite this paper or code, please use:
-
-```
-insert bibtex / citation here
-```
--->
 
 Interactive plots of individual feature data are available at
 [cognlp.com](https://cognlp.com)
